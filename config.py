@@ -1,3 +1,3 @@
-comunity_token = 'vk1.a.TYBXaApC9oM68ay-Xw9ECJ6WhPfKGlHUOIXY9LdfMwUwyd8IvV9x4afsXn1DED9FO9xVg76Yt86wh_5fjms7HOmS-zSq7miWWFe0767EGpRp9Df3EylQLTzv1DYUlh7FfXogkJGimrrPGUPklnNavnGdae2H_-h1cWx-clzFS2-xpeUNuFLatwTgtf_K6NefLKbND1rhQSkRpPM0S5nB0g'
-acces_token = 'vk1.a.BLiYcmne07owx7BNo9PsHRDNLQbjaCccD-MvzaNzbwgPxUAN0NNh2DOBejSw5HHqHYmwFkd2iT92yNR5QCv-ymO9_i7NVzdU27NzcBPrKFq6fUEpirkzjX4ZciTQTQE25h4woNWmC5Hm-LXGj3zHVlqlvjOBW8XEhIryUF1eAN2E-2-LLO3f7HSJPtkGFIxSzWlaF0lhQ9QkL3vWzFXEng'
+comunity_token = ''
+acces_token = ''
 db_url_object = "postgresql+psycopg2://postgres:paradox@localhost/student_diplom"
